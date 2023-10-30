@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.dog-card{
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 16px;
+  margin-bottom: 8px;
+
+}
